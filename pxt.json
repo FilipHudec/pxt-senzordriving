@@ -5,7 +5,8 @@
         "core": "*",
         "radio": "*",
         "microphone": "*",
-        "pxt-magicbit-pca9685": "github:TomasKazda/pxt-magicbit-pca9685#1e097c914b2c7ed1f4071d7b6288ef64812030e2"
+        "pxt-magicbit-pca9685": "github:TomasKazda/pxt-magicbit-pca9685#1e097c914b2c7ed1f4071d7b6288ef64812030e2",
+        "pxt-magicbit-pca9685-pwmservo": "github:TomasKazda/pxt-magicbit-pca9685-pwmservo#34efb579e9550b93fb36cca39677db18c5de1e86"
     },
     "files": [
         "main.blocks",
